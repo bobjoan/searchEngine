@@ -59,7 +59,7 @@ export default function SearchEngine(props) {
           <a href="https://github.com/bobjoan/searchEngine">Github</a>and hosted
           on{" "}
           <a href="https://vercel.com/bob-joans-projects/search-engine">
-            VercelS
+            Vercel
           </a>{" "}
         </p>
       </footer>
