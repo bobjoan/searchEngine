@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import footer from "./footer";
 import axios from "axios";
 import "./styles.css";
 
