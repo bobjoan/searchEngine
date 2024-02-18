@@ -55,10 +55,4 @@ export default function SearchEngine(props) {
       )}
     </div>
   );
-  <footer className="repositoryName">
-    <p>
-      This is an open-sourced project on
-      <a href="https://github.com/bobjoan/searchEngine">Github</a>
-    </p>
-  </footer>;
 }
