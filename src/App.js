@@ -1,5 +1,4 @@
 import SearchEngine from "./SearchEngine";
-import footer from "./footer";
 import "./styles.css";
 
 export default function App() {
@@ -7,7 +6,6 @@ export default function App() {
     <div className="App">
       <h1>Search Engine</h1>
       <SearchEngine city="Lagos" />
-      <footer />
     </div>
   );
 }

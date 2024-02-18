@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import footer from "./footer";
 import axios from "axios";
 import "./styles.css";
 
@@ -54,6 +53,16 @@ export default function SearchEngine(props) {
           </li>
         </ul>
       )}
+      <footer>
+        <p>
+          This project is open-sourced on{" "}
+          <a href="https://github.com/bobjoan/searchEngine">Github</a>and hosted
+          on{" "}
+          <a href="https://vercel.com/bob-joans-projects/search-engine">
+            VercelS
+          </a>{" "}
+        </p>
+      </footer>
     </div>
   );
 }
