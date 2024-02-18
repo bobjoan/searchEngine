@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <h1>Search Engine</h1>
       <SearchEngine city="Lagos" />
-      <footer />S
+      <footer />
     </div>
   );
 }
