@@ -2,6 +2,9 @@
   font-family: sans-serif;
   text-align: center;
 }
+body {
+  background-color: gray;
+}
 .SearchCity input {
   padding: 8px;
   margin-bottom: 15px;
