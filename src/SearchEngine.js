@@ -56,8 +56,8 @@ export default function SearchEngine(props) {
       <footer>
         <p>
           This project is open-sourced on{" "}
-          <a href="https://github.com/bobjoan/searchEngine">Github</a>and hosted
-          on{" "}
+          <a href="https://github.com/bobjoan/searchEngine">Github</a> and
+          hosted on{" "}
           <a href="https://vercel.com/bob-joans-projects/search-engine">
             Vercel
           </a>{" "}
