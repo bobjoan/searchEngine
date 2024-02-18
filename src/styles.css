@@ -4,6 +4,7 @@
 }
 SearchEngine {
   background-color: gray;
+  width: 60%;
 }
 .SearchCity input {
   padding: 8px;
