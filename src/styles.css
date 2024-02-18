@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.SearchCity input {
+  padding: 8px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  font-size: 16px;
+}
+ul {
+  list-style-type: none;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
